@@ -11,8 +11,8 @@ df = pd.read_excel('dataset.xlsx')
 ## 输出文件 
 
 dataset.xlsx  ： 2010-01-01~2019-06-01 2285个样本，36个特征  
-data_stat :  特征的统计性描述（加注释）  
-data_stat_raw :  特征的统计性描述（未加注释）  
+data_stat :  特征的描述性统计（加注释）  
+data_stat_raw :  特征的描述性统计（未加注释）  
 
 ## 东方新财富-股吧爬虫
 ### 目的
